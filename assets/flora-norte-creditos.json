@@ -1,0 +1,40 @@
+{
+  "Ligaria_cuneifolia": {
+    "image": "assets/Ligaria_cuneifolia.jpg",
+    "credit": "Especies-mendoza-23",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ligaria.cuneifolia.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "species": "Ligaria cuneifolia",
+    "caption": "Planta viva con flores. Fotografía de Mendoza, Argentina; no indica presencia en el punto seleccionado."
+  },
+  "Cardon": {
+    "image": "assets/Cardon.jpg",
+    "credit": "Mourial",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cardon.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "species": "Echinopsis atacamensis subsp. pasacana",
+    "caption": "Cardones en Argentina. Nombre de referencia de la ficha: Trichocereus atacamensis; Echinopsis atacamensis es un sinónimo utilizado por la fuente fotográfica."
+  },
+  "Tripodanthus_acutifolius": {
+    "image": "assets/Tripodanthus_acutifolius.jpg",
+    "credit": "Uruguayan Barcode of Life Initiative (BoL-UY)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tripodanthus_acutifolius-CA102MVFA-FAGRO-UDELAR.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "species": "Tripodanthus acutifolius",
+    "caption": "Ejemplar seco de herbario CA102MVFA, colectado en Rivera, Uruguay (2022). Los colores del material seco no representan síntomas de una planta viva.",
+    "herbarium": true
+  },
+  "Phoradendron_liga": {
+    "image": "assets/Phoradendron_liga.jpg",
+    "credit": "Instituto Nacional da Mata Atlântica (INMA) · Herbario MBML / Reflora",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LORANTHACEAE_phoradendron_liga_Eichler,_INMA_(MBML012986).pdf",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "species": "Phoradendron liga",
+    "caption": "Fotografía digital de ejemplar seco de herbario MBML012986, Brasil (1999). Vista de la primera página del documento; no representa una planta viva ni síntomas de campo.",
+    "herbarium": true
+  }
+}

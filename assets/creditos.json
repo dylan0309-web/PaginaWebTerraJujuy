@@ -1,0 +1,184 @@
+{
+  "Oat": {
+    "image": "assets/Oat.jpg",
+    "credit": "Christian Fischer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AvenaSativa3.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "Cuscuta": {
+    "image": "assets/Cuscuta.jpg",
+    "credit": "No machine-readable author provided. Bogdan assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cuscuta_europaea_bgiu.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "species": "Cuscuta europaea"
+  },
+  "Onion": {
+    "image": "assets/Onion.jpg",
+    "credit": "Colin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "Nature": {
+    "image": "assets/Nature.jpg",
+    "credit": "Inkaroad",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Laurel_forest.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "Potato": {
+    "image": "assets/Potato.jpg",
+    "credit": "Scott Bauer, USDA ARS",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Patates.jpg"
+  },
+  "Orobanche": {
+    "image": "assets/Orobanche.jpg",
+    "credit": "Walter Siegmund (talk)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Orobanche_uniflora_3303f.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "species": "Orobanche uniflora"
+  },
+  "Phaseolus_vulgaris": {
+    "image": "assets/Phaseolus_vulgaris.jpg",
+    "credit": "Rasbak",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snijboon_peulen_Phaseolus_vulgaris.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "Chenopodium_quinoa": {
+    "image": "assets/Chenopodium_quinoa.jpg",
+    "credit": "User:MarkusHagenlocher",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reismelde.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "Soybean": {
+    "image": "assets/Soybean.jpg",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Soybean.USDA.jpg"
+  },
+  "Helianthus_annuus": {
+    "image": "assets/Helianthus_annuus.jpg",
+    "credit": "Albert Torello",
+    "license": "CC-BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://plants.ces.ncsu.edu/plants/helianthus-annuus/",
+    "caption": ""
+  },
+  "Nicotiana_tabacum": {
+    "image": "assets/Nicotiana_tabacum.jpg",
+    "credit": "Jom / Joachim Müllerchen",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Tabak_P9290021.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "Tomato": {
+    "image": "assets/Tomato.jpg",
+    "credit": "Softeis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "Vicia_villosa": {
+    "image": "assets/Vicia_villosa.jpg",
+    "credit": "No machine-readable author provided. Fabelfroh assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicia_villosa.jpeg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "Wheat": {
+    "image": "assets/Wheat.jpg",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "Sugarcane": {
+    "image": "assets/Sugarcane.jpg",
+    "credit": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "source": "https://plants.ces.ncsu.edu/plants/saccharum-officinarum/",
+    "caption": "In bloom",
+    "species": "Saccharum officinarum"
+  },
+  "Maize": {
+    "image": "assets/Maize.jpg",
+    "credit": "Forest and Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://plants.ces.ncsu.edu/plants/zea-mays/",
+    "caption": "Zea mays. Corn"
+  },
+  "Squash": {
+    "image": "assets/Squash.jpg",
+    "credit": "USDA",
+    "license": "Public Domain Mark 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://plants.ces.ncsu.edu/plants/cucurbita-pepo/",
+    "caption": "Petit pan squash"
+  },
+  "Pepper": {
+    "image": "assets/Pepper.jpg",
+    "credit": "Jim the Photographer",
+    "license": "CC BY 2.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+    "source": "https://plants.ces.ncsu.edu/plants/capsicum-annuum/",
+    "caption": "Form in container"
+  },
+  "Carrot": {
+    "image": "assets/Carrot.jpg",
+    "credit": "Forest & Kim Starr",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://plants.ces.ncsu.edu/plants/daucus-carota-subsp-sativus/",
+    "caption": "ends of carrots"
+  },
+  "Lettuce": {
+    "image": "assets/Lettuce.jpg",
+    "credit": "Dwight Sipler",
+    "license": "CC BY 2.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+    "source": "https://plants.ces.ncsu.edu/plants/lactuca-sativa/",
+    "caption": "Butterhead lettuce"
+  },
+  "Rye": {
+    "image": "assets/Rye.jpg",
+    "credit": "Matt Lavin",
+    "license": "CC-BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://plants.ces.ncsu.edu/plants/secale-cereale/",
+    "caption": "Secale cereale"
+  },
+  "Sorghum": {
+    "image": "assets/Sorghum.jpg",
+    "credit": "Harry Rose",
+    "license": "CC BY 2.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+    "source": "https://plants.ces.ncsu.edu/plants/sorghum-bicolor/",
+    "caption": "Habit"
+  },
+  "Clover": {
+    "image": "assets/Clover.jpg",
+    "credit": " Forest and Kim Starr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by/2.0/legalcode",
+    "source": "https://plants.ces.ncsu.edu/plants/trifolium-repens/",
+    "caption": "White clover"
+  },
+  "Striga_plant": {
+    "image": "assets/Striga_plant.jpg",
+    "credit": "Marco Schmidt [1]",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Striga_bilabiata_MS4167.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "species": "Striga bilabiata"
+  }
+}
